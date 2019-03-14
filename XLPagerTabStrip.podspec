@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/xmartlabs/XLPagerTabStrip"
   s.license          = { type: 'MIT', file: 'LICENSE' }
   s.author           = { "Martin Barreto" => "martin@xmartlabs.com" }
-  s.source           = { git: "https://github.com/xmartlabs/XLPagerTabStrip.git", tag: s.version.to_s }
+  s.source           = { git: "https://github.com/grd888/XLPagerTabStrip.git", tag: s.version.to_s }
   s.social_media_url = 'https://twitter.com/xmartlabs'
   s.ios.deployment_target = '9.3'
   s.requires_arc = true
